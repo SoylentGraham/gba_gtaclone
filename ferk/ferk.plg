@@ -1,0 +1,23 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: ferk - Win32 Debug--------------------
+</h3>
+
+
+Microsoft (R) Program Maintenance Utility   Version 6.00.8168.0
+Copyright (C) Microsoft Corp 1988-1998. All rights reserved.
+
+ferk.mak(13) : fatal error U1034: syntax error : separator missing
+Stop.
+Error executing nmake.
+
+
+
+<h3>Results</h3>
+ferk.gba - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

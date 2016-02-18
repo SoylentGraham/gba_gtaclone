@@ -1,0 +1,26 @@
+#ifndef GAME_TILE_SETS_H
+#define GAME_TILE_SETS_H
+
+
+#include "../core/gba.h"
+
+
+
+enum {
+	BLANK_TILES=0,
+	ROAD_TILES,
+	BUILDING_TILES,
+	SHADOW_TILES,
+	FONT_TILES,
+	SPOTLIGHT_TILES,
+	CAR_TILES,
+	TILE_TYPE_COUNT,
+};
+
+
+
+
+
+
+#endif
+
